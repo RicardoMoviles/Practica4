@@ -1,0 +1,133 @@
+<resources>
+        <string name = "app_name"> Colombia Tourism </string>
+
+        <string name = "hello_world"> Hello World! </string>
+        <string name = "hoteles"> Hotels in Apartadó </string>
+        <string name = "bares"> Bars Apartadó </string>
+        <string name = "tourismo">Tourist information in Apartado </string>
+        <string name = "demo">Demographics Apartadó</string>
+
+        <string name = "about"> App Creator </string>
+        <string name="namecreator">Ricardo Restrepo Angel</string>
+        <string name="semestre">Sixth semester</string>
+        <string name="study">Electronic Engineering student</string>
+
+        <string name="ubica"> Location in Antioquia</string>
+        <string name="bandera">Flag</string>
+
+
+
+        <string name = "action_settings"> Settings </string>
+
+
+        <string name = "title_activity_hotel_activty"> Guide Hotels </string>
+        <string name = "title_activity_bares"> Guide Bars </string>
+        <string name = "title_activity_turismo"> Tourism </string>
+        <string name = "title_activity_demo"> Demographics </string>
+        <string name = "title_activity_about"> About </string>
+
+        <string name = "action_hotel"> Hotels </string>
+        <string name = "action_bares"> Bars </string>
+        <string name = "action_info"> Tourist information  </string>
+        <string name = "action_demo"> Demographics </string>
+        <string name = "action_about"> About </string>
+
+        <string name="reseña">SUMMARY\n\n
+            Apartado is a municipality of Colombia,located in the subregion of Urabá in the department
+            Antioquia. It is the largest municipality in the subregion
+            Uraba, because it houses the headquarters of
+            banana and commercial enterprises. It bordered on the north and west
+            with the city of Turbo, on the east by the department of Córdoba
+            and on the south by the municipality of Carepa. Its municipal head is
+            336 kilometers from the provincial capital, Medellin. In its urban area,
+            Section is divided into 49 districts, spread over 4 communes. While
+            in its rural, it has 4 corregimientos5 and 57 villages.
+        </string>
+
+        <string name="presentacion">
+            Apartado prepares to face the challenges that globalization
+            and the influx of new people whose culture generate multicultural spaces
+            converging in an urban space in which new cultural models are built.\n\n
+            Apartadó has one plurietnicocultural wealth that will help us to show our strengths.
+            We show tourist sites such as San José de Apartadó, Puerto Girón, banana balers,
+            Our Parks and especially our climate becomes our greatest strength, accompanied it in
+            education and health to provide our citizens to achieve the Millennium Development Goals
+            and objectives of the Development Plan.\n\n
+            Apartado Come and find friendly, hardworking people, exceptional landscapes,
+            a mixture of cultures that makes the most cheerful and most prolific region of Antioquia,
+            empowered some leaders in the development of our region, artistic talent as anyone else
+            and an ability to emerge from the social experience we have had.
+        </string>
+
+        <string name="extension">Extension: 600 Km^2</string>
+        <string name="poblacion">Population: 178,257</string>
+        <string name="gentilicio">Gentilicio: Apartadosense, Apartadoseño,-a</string>
+
+
+        <string name="nombreh1">Hotel Embera</string>
+        <string name="nombreh2">Hotel Guateque</string>
+        <string name="nombreh3">Hotel el Oscar</string>
+        <string name="nombreb1">La 100</string>
+        <string name="nombreb2">Party Xtrem</string>
+        <string name="nombreb3">Pebbles Pizzeria</string>
+
+        <string name="direccionh1">Calle 100 #103–49</string>
+        <string name="direccionh2">Carrera 102 #91–20</string>
+        <string name="direccionh3">Carrera 102 #98–10</string>
+        <string name="direccionb1">Calle 100 #103–49</string>
+        <string name="direccionb2">Carrera 105 Barrio Ortiz</string>
+        <string name="direccionb3">Carrera 105 #100f-01</string>
+
+        <string name="telefonoh1">(574)828 15 88</string>
+        <string name="telefonoh2">(574)828 84 34</string>
+        <string name="telefonoh3">(574)828 81 84</string>
+        <string name="telefonob1">(574)828 15 88</string>
+        <string name="telefonob2">--</string>
+        <string name="telefonob3">(574) 828 31 46</string>
+
+        <string name="guia">Parque de los Encuentros\n\n
+            Address: Km. 3 Via Carepa\n
+            County: Apartado\n
+            Location: Park Meeting-Comfenalco\n
+            Description: 46 hectares with swimming pools, recreational diving and recreational programs
+        </string>
+
+        <string name="guia2">
+            Parque el Oasis\n\n
+            Address:. Km 3 route Carepa\n
+            Park Services:\n
+            Wetland: pool babies, children and adults pool.\n
+            Sports area: Football area, beach volleyball court, playground.\n
+            Social area: Auditorium and / or meeting room, an indoor lounge for special events (200 people), restaurant, cafeteria and parking.\n
+            We also offer: tailored business social events, academic and ..\n
+            Social area Meeting rooms, restaurants, nature trails and parking. We also offer: business, academic and social events tailored.
+        </string>
+
+        <string name="guia3">
+            Parque Zungo\n\n
+            Address: 10 minutes by car from the village\n
+            Park Services:\n
+            Wetland: slide, children and adults swimming pools, sauna, steam, lazy river\n.
+            Sports area: Skating rink, soccer, sports plate. Playgrounds, nature trails.\n
+            Social area: auditoriums and / or meeting rooms, restaurant, cafeteria and parking.\n
+            Accommodation: 8 cabins can accommodate 4 persons per each one\n.
+            Ecological Island: Meeting place for training and environmental awareness activities.
+        </string>
+
+        <string name="guia4">
+            Puerto Giron\n\n
+           3. EcoGirón: community ecotourism Puerto Girón is a bastion of biodiversity in the middle
+            of banana monoculture, a Chocoano village hidden in Antoquia\n
+           4. EcoGirón: community ecotourism ACUA EcoGiron Foundation will support the venture, which
+            is developing tourist proposals to promote tourism in the area.
+        </string>
+
+        <string name="guia5">
+            Banana\n\n
+            The main activity of this region is the cultivation of Banana and Plantain exported from here to various
+            regions of the world. There are many varieties of bananas, and also make banana cake, chocolate banana,
+            panelitas banana, banana coconut candies and more ..
+        </string>
+
+
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/greenyellow">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarAlwaysDrawVerticalTrack="true" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:adjustViewBounds="true"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/parqueencuentros" >
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/guia"
+                android:textColor="@color/black">
+            </TextView>
+
+            <ImageView
+                android:adjustViewBounds="true"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/parqueoasis" >
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/guia2"
+                android:textColor="@color/black">
+            </TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/parquezungo1" >
+                </ImageView>
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/parquezungo2" >
+                </ImageView>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/guia3"
+                android:textColor="@color/black">
+            </TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/ecogiron" >
+                </ImageView>
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/ecogiron2" >
+                </ImageView>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/guia4"
+                android:textColor="@color/black">
+            </TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/panelasdebanano" >
+                </ImageView>
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/tortadebanano" >
+                </ImageView>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/guia5"
+                android:textColor="@color/black">
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

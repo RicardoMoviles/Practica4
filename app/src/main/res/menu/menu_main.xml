@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_hotel"
+        app:showAsAction="never"
+        android:title="@string/action_hotel"/>
+
+    <item
+        android:id="@+id/action_bares"
+        app:showAsAction="never"
+        android:title="@string/action_bares"/>
+
+    <item
+        android:id="@+id/action_info"
+        app:showAsAction="never"
+        android:title="@string/action_info"/>
+
+    <item
+        android:id="@+id/action_demo"
+        app:showAsAction="never"
+        android:title="@string/action_demo"/>
+
+    <item
+        android:id="@+id/action_about"
+        app:showAsAction="never"
+        android:title="@string/action_about"/>
+
+</menu>

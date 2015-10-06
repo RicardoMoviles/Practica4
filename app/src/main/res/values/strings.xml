@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Colombia Turística</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hoteles"> Hoteles en Apartadó</string>
+    <string name="bares">Bares en Apartadó</string>
+    <string name="turismo">Datos turisticos en Apartadó</string>
+    <string name="demo">Demografia Apartadó</string>
+
+    <string name="about">Creador de la App</string>
+    <string name="namecreator">Ricardo Restrepo Angel</string>
+    <string name="semestre">Sexto Semestre</string>
+    <string name="study">Estudiante de Ingenieria Electronica</string>
+
+    <string name="ubica">Ubicacion en Antioquia</string>
+    <string name="bandera">Bandera</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_hotel_activty">Guia de Hoteles</string>
+    <string name="title_activity_bares">Guia de Bares</string>
+    <string name="title_activity_turismo">Turismo</string>
+    <string name="title_activity_demo">Demografia</string>
+    <string name="title_activity_about">AcercaDe</string>
+
+    <string name="action_hotel">Hoteles</string>
+    <string name="action_bares">Bares</string>
+    <string name="action_info">Datos turisticos</string>
+    <string name="action_demo">Demografia</string>
+    <string name="action_about">AcercaDe</string>
+
+    <string name="reseña">RESEÑA\n\n
+        Apartadó es un municipio de Colombia,
+        localizado en la subregión de Urabá en el departamento
+        de Antioquia. Es el municipio más importante de la subregión
+        de Urabá, ya que en él se encuentran las sedes principales de
+        las empresas bananeras y comerciales. Limita por el norte y oeste
+        con la ciudad de Turbo, por el este con el departamento de Córdoba
+        y por el sur con el municipio de Carepa.  Su cabecera municipal est
+        a 336 kilómetros de la capital departamental, Medellín. En su área urbana,
+        Apartadó se divide en 49 barrios, repartidos en 4 comunas . Mientras
+        que en su parte rural,cuenta con 4 corregimientos5 y 57 veredas.</string>
+
+    <string name="presentacion">
+        Apartadó se prepara para enfrentar los desafíos que tienen la mundialización
+        y la afluencia de nuevas personas que con su cultura generan espacios pluriculturales
+        que convergen en un espacio urbano en  el que se construyen  nuevos modelos socioculturales.
+        \n\n
+        Posee Apartadó una riqueza plurietnicocultural que nos van ayudar a mostrar nuestras fortalezas.
+        Sitios turísticos que debemos mostrar como San José de Apartadó, Puerto Girón, las Empacadoras Bananeras,
+        Nuestros Parques y sobre todo nuestro clima se convierte en nuestra mayor fortaleza, acompañado ello de
+        la educación y la salud que se debe proporcionar a nuestros ciudadanos para lograr las metas del milenio
+        y los objetivos del Plan de Desarrollo.
+        \n\n
+        Venga a Apartadó y encontrará gente amable, trabajadora, unos paisajes excepcionales,
+        una mezcla de culturas que hace de la región la más alegre y más prolífica de Antioquia,
+        unos líderes empoderados en el desarrollo de nuestra región, talento artístico como el que más
+        y una capacidad de resurgir por la experiencia social que hemos tenido.
+    </string>
+
+    <string name="extension">Extensión: 600 Km^2</string>
+    <string name="poblacion">Poblacion: 178,257</string>
+    <string name="gentilicio">Gentilicio: Apartadosense, Apartadoseño,-a</string>
+
+    <string name="nombreh1">Hotel Embera</string>
+    <string name="nombreh2">Hotel Guateque</string>
+    <string name="nombreh3">Hotel el Oscar</string>
+    <string name="nombreb1">La 100</string>
+    <string name="nombreb2">Party Xtrem</string>
+    <string name="nombreb3">Pebbles Pizzeria</string>
+
+    <string name="direccionh1">Calle 100 #103–49</string>
+    <string name="direccionh2">Carrera 102 #91–20</string>
+    <string name="direccionh3">Carrera 102 #98–10</string>
+    <string name="direccionb1">Calle 100 #103–49</string>
+    <string name="direccionb2">Carrera 105 Barrio Ortiz</string>
+    <string name="direccionb3">Carrera 105 #100f-01</string>
+
+    <string name="telefonoh1">(574)828 15 88</string>
+    <string name="telefonoh2">(574)828 84 34</string>
+    <string name="telefonoh3">(574)828 81 84</string>
+    <string name="telefonob1">(574)828 15 88</string>
+    <string name="telefonob2">--</string>
+    <string name="telefonob3">(574) 828 31 46</string>
+
+    <string name="guia">Parque de los Encuentros\n\n
+                        Direccion: Km. 3 Via Carepa\n
+                        Municipio: Apartadó\n
+                        Lugar: Parque de los Encuentro-Comfenalco\n
+                        Descripción: 46 hectáreas con piscinas, buceo y programas lúdico recreativos
+    </string>
+
+    <string name="guia2">
+        Parque el Oasis\n\n
+        Direccion: Km. 3 Via Carepa\n
+        Servicios del Parque:\n
+        Zona húmeda: Pileta bebés, piscina niños y adultos.\n
+        Zona deportiva: Cancha de fútbol, cancha de voleyplaya, juegos infantiles.\n
+        Zona social: Auditorio y/o salón de reuniones, salón con cubierta para eventos especiales (200 personas), restaurante, cafetería y parqueadero.\n
+        También ofrecemos: Eventos empresariales, académicos y sociales a la medida..\n
+        Zona social Salones para reuniones, restaurantes, senderos ecológicos y parqueadero. También ofrecemos: eventos empresariales, académicos y sociales a la medida.
+    </string>
+
+    <string name="guia3">
+        Parque Zungo\n\n
+        Direccion: a 10 minutos en auto desde el casco urbano\n
+        Servicios del Parque:\n
+        Zona húmeda: Tobogán, piscinas niños y adultos, sauna, turco, río lento.\n
+        Zona deportiva: Pista de patinaje, canchas de fútbol, placa polideportiva. Juegos infantiles, senderos ecológicos.\n
+        Zona social: Auditorios y/o salones de reuniones, restaurante, cafetería y parqueadero.\n
+        Alojamiento: 8 cabañas con capacidad para alojar 4 personas por c/u.\n
+        Isla Ecológica: Lugar de encuentro para actividades formativas y de sensibilización ambiental.
+    </string>
+
+    <string name="guia4">
+        Puerto Giron\n\n
+        3. EcoGirón:  ecoturismo  comunitario     Puerto  Girón  es  un  baluarte  de  biodiversidad
+        en  el  medio  del  monocultivo  del  banano,  un   pueblo  chocoano  escondido  en  Antoquia.\n
+        4. EcoGirón:  ecoturismo  comunitario     La  Fundación  ACUA  apoyará  el   emprendimiento  EcoGiron,
+        que  está   desarrollando  propuestas  turísticas  para   promocionar  el  turismo  de  la  zona.\n
+    </string>
+
+    <string name="guia5">
+        Banano\n\n
+            La mayor actividad de esta region es el cultivo de Banana y Platano que se exporta desde aqui a varias
+            regiones del mundo. Hay muchas variedades de banano, y tambien hacen torta de banano, chocolates de banano,
+            panelitas de banano, cocadas de banano y mas..
+    </string>
+
+
+</resources>
